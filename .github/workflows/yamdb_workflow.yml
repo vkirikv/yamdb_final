@@ -1,5 +1,5 @@
 # .github/workflows/**yamdb_workflow.yml**
-name: Django-app workflow
+name: api_yamdb workflow
 
 on: [push]
 
