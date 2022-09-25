@@ -45,6 +45,7 @@ jobs:
           uses: docker/build-push-action@v2
           with:
             push: true
+            file: ./api_yamdb/Dockerfile
             tags: vkirikv/api_yamdb:v1
 
   deploy:
