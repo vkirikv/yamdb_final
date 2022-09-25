@@ -168,4 +168,4 @@ POST http://<your_ip>/api/v1/titles/
 Анатолий Баскаков  
 Максим Рогушкин
 
-![api_yamdb](https://github.com/vkirikv/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![yamdb_workflow](https://github.com/vkirikv/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
