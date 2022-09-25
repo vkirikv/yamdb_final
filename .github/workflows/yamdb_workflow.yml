@@ -1,4 +1,4 @@
-# .github/workflows/**yamdb_workflow.yml**
+# .github/workflows/yamdb_workflow.yml
 name: api_yamdb workflow
 
 on: [push]
